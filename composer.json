@@ -1,0 +1,15 @@
+ {
+    "name": "maulanaabdulsiddiq/remasapp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maulana Abdul Siddiq",
+            "email": "siddiqmaulanaabdul@gmail.com",
+            "role": "programmer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit":"^6.5"
+    },
+    "description": "Project PHP"
+}
