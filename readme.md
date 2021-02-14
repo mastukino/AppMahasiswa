@@ -13,31 +13,28 @@ Aplikasi ini merupakan implementasi CRUD sederhana yang di dalamnya terdapat men
 menggunakan template bootstrap. Aplikasi ini responsive untuk semua platform baik desktop, tablet maupun mobile.
 
 ### Prerequisites
-
 Software yang dibutuhkan untuk mempelajari project ini:
-* [Xampp](https://www.apachefriends.org/download.html/) - Local server software
-* [Visual Studio Code](https://www.visualstudio.com/downloads/) - Text editor software
+* [Xampp](http://bit.ly/3ruSKNR) - Local server software
+* [Visual Studio Code](http://bit.ly/3a0ghjF) - Text editor software
+* [Sublime Text](http://bit.ly/2N857Ai) - Text editor software
+* [Notepad++](http://bit.ly/3q09YlW) - Text editor software
 * [Bootsrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/download/) - Digunakan untuk template tampilan
 * [FontAwesome](https://fontawesome.com/?from=io) - Icon library
 
-### Demo
-
-[Demo](http://remaswebsite.000webhostapp.com/) - Untuk demo aplikasi
-
 ### Installing
 
-Download project ini, kemudian ekstrak dalam folder HTDOCS beri nama aplikasi_data.
+Download project ini, kemudian ekstrak dalam folder HTDOCS beri nama AppMahasiswa.
 ```
-D:\xampp\htdocs
+C:\xampp\htdocs
 ```
-Install software Xampp. Setelah selesai jalankan apache dan mysql. Kemudian buka browser, ketikkan alamat
+Install Software XAMPP. Setelah selesai jalankan Apache dan MySQL. Kemudian buka Browser, ketikkan alamat
 ```
 localhost/phpmyadmin
 ```
 Buat database baru dengan nama uas_web. Kemudian pilih tab menu import, pilih file database yang ada di folder project lalu klik Go.
 Kemudian buka alamat project di brwoser
 ```
-localhost/aplikasi_data
+localhost/AppMahasiswa
 ```
 
 Aplikasi sudah bisa dijalankan. Coba semua fiturnya.
@@ -52,4 +49,4 @@ Aplikasi sudah bisa dijalankan. Coba semua fiturnya.
 
 ### Created by
 
-Maulana Abdul Siddiq
+Tukino, S.Kom., M.SI
